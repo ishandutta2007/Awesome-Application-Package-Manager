@@ -137,19 +137,19 @@ Contributions are very welcome! Follow these simple steps to add new package man
 
 ---
 
-## 📊 Star History 📈
+## 🤝 Support & Sponsorship ☕
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Package-Manager&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Package-Manager&type=date&legend=top-left)
+Thank you so much for visiting and using this repository! If this curated list has been helpful to your workflow or project development, please consider showing your support:
+
+- ⭐ **Star** this repository to help increase its visibility!
+- 🔀 **Fork** and share it with fellow developers and DevOps engineers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## 🤝 Support & Sponsorship ☕
+## 📊 Star History
 
-If this curated directory helps your DevOps workflow, package resolution, or software architecture decisions:
-
-- ⭐ **Star** this repository to help others discover it!
-- 🔀 **Fork** and share with your software engineering team.
-- ☕ **Sponsor**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Package-Manager&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Package-Manager&type=date&legend=top-left)
 
 ---
 
