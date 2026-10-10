@@ -71,7 +71,7 @@ Welcome to the ultimate curated directory of **application package managers**, *
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[astral-sh/uv](https://github.com/astral-sh/uv)** [![Stars](https://img.shields.io/github/stars/astral-sh/uv?style=social&color=white)](https://github.com/astral-sh/uv/stargazers)  
   **An extremely fast Python package and project manager, written in Rust**, Apache-2.0 / MIT licensed. **10-100x faster than pip**, replacing pip, pip-tools, virtualenv, poetry, and pyenv with a unified workspace lockfile tool. 🐍 ⚡
@@ -131,8 +131,8 @@ Welcome to the ultimate curated directory of **application package managers**, *
 Contributions are very welcome! Follow these simple steps to add new package managers, artifact repositories, or registry tools: 🚀
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add/Edit** entries in `README.md` following the exact tabular / list format and star count badge structure.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and concise feature summary.
+2. 📝 **Add/Edit** entries in `README.md` following the exact tabular / list format and Stars_Count badge structure.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and concise feature summary.
 4. 🚀 Open a **Pull Request** with a descriptive title.
 
 ---
